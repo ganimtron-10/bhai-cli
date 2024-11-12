@@ -11,6 +11,8 @@ $$$$$$$  |$$ |  $$ |$$ |  $$ |$$$$$$\ \$$$$$$  |$$$$$$$$\ $$$$$$\
 
 # BhaiCLI - CLI's ka Bhai aur Bhaiyo ka CLI!
 
+https://github.com/user-attachments/assets/07a60e3c-48dd-4e95-bf0c-57f63b28fb28
+
 ## Bhai ke sath kaise baat kre
 
 ```bash
@@ -37,7 +39,7 @@ bhai ye [command]
 Repository ko clone kro:
 
 ```bash
-git clone https://github.com/yourusername/bhaicli.git
+git clone https://github.com/ganimtron-10/bhaicli.git
 cd bhaicli
 ```
 
